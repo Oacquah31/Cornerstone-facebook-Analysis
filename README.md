@@ -57,7 +57,7 @@ A data-driven evaluation of social media performance, focusing on the effectiven
 
 ## 📷 Dashboard Previews
 
-*(Add screenshots here after uploading to the repository)*
+*https://github.com/Oacquah31/Cornerstone-facebook-Analysis/blob/main/fb.png*
 
 ---
 
